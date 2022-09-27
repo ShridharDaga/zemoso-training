@@ -4,4 +4,3 @@ Banana
 Orange
 Watermelon
 Papaya
-Not a Fruit
